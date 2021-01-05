@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Fire-Map/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Fire-Map/static/js/main.135354dc.chunk.js",
+    "main.js.map": "/Fire-Map/static/js/main.135354dc.chunk.js.map",
+    "runtime-main.js": "/Fire-Map/static/js/runtime-main.9c62a2ba.js",
+    "runtime-main.js.map": "/Fire-Map/static/js/runtime-main.9c62a2ba.js.map",
+    "static/css/2.0a5b19c0.chunk.css": "/Fire-Map/static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.99794297.chunk.js": "/Fire-Map/static/js/2.99794297.chunk.js",
+    "static/js/2.99794297.chunk.js.map": "/Fire-Map/static/js/2.99794297.chunk.js.map",
+    "index.html": "/Fire-Map/index.html",
+    "precache-manifest.6d09684f543ca3a79ea06b2217239538.js": "/Fire-Map/precache-manifest.6d09684f543ca3a79ea06b2217239538.js",
+    "service-worker.js": "/Fire-Map/service-worker.js",
+    "static/css/2.0a5b19c0.chunk.css.map": "/Fire-Map/static/css/2.0a5b19c0.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Fire-Map/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.99794297.chunk.js.LICENSE.txt": "/Fire-Map/static/js/2.99794297.chunk.js.LICENSE.txt",
+    "static/media/warning.a35f82b9.svg": "/Fire-Map/static/media/warning.a35f82b9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c62a2ba.js",
+    "static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.99794297.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.135354dc.chunk.js"
+  ]
+}
